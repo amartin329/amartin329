@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+### I am a novice front-end developer (currently training to become a full-stack developer!)
+### Keep an eye out for updates as my development progresses!
 
 <!--
 **amartin329/amartin329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
